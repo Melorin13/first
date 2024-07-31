@@ -1,0 +1,41 @@
+
+body{
+	background-color: hsl(212, 45%, 89%)
+}
+
+.div0{
+	width: 210px;
+	height: 320px;
+	background-color: white;
+	justify-content: center;
+	margin: auto;
+	margin-top: 12%;
+	margin-bottom: 12%;
+	display: flex;
+	border-radius: 6%;
+
+
+}
+.div1{
+	margin: 15px;
+	border-radius: 6%;
+	display: block;
+}
+
+h1{
+	
+	font-size: 15px;
+	justify-content: center;
+	font: bold;
+	margin: 10px;
+	text-align: center;
+	color: hsl(218, 44%, 22%);
+
+}
+h2{
+	font-size: 11px;
+	justify-content: center;
+	margin: 10px;
+	text-align: center;
+	color: hsl(216, 15%, 48%);
+}
